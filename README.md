@@ -5,8 +5,8 @@
 ## ✨ Key Features  
 
 ✅ **Millisecond precision timing**  
-✅ **Start/Pause/Reset controls**
 ✅ **Responsive design** works on all devices  
+✅ **Start/Pause/Reset** controls
 
 ## 🚀 Quick Start  
 
